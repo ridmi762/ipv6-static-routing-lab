@@ -704,8 +704,24 @@ Dynamic routing protocols (OSPFv3, EIGRP for IPv6)
 Additional security features
 VLAN configurations
 IPv6 access-lists
+## 📝 My Contact
 
-## 📧 Contact
-For questions or suggestions, please open an issue in this repository.
+**Name:**  Nimesha Ridmi
+
+**GitHub:** https://github.com/ridmi762
+
+**Note:** This is my personal learning project. I built it entirely on my own to develop my networking skills.
+
+
+## ⭐ Thank You for Checking Out My Project!
+
+I'm proud of what I built and learned through this project. If you have any questions or suggestions, feel free to reach out!
+
+<div align="center">
+  <sub>Built by me using Cisco Packet Tracer | Self-learning project</sub>
+  <br>
+  <sub>© 2024 [Your Name]</sub>
+</div>
+
 
 ## Happy Networking! 🌐
