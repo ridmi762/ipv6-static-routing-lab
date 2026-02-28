@@ -698,12 +698,7 @@ Serial interfaces on one end require clock rate configuration
 Static routes are used throughout (no dynamic routing protocols)
 Network uses /64 subnets as per IPv6 best practices
 
-## 🤝 Contributing
-Feel free to fork this project and enhance it with:
-Dynamic routing protocols (OSPFv3, EIGRP for IPv6)
-Additional security features
-VLAN configurations
-IPv6 access-lists
+
 ## 📝 My Contact
 
 **Name:**  Nimesha Ridmi
