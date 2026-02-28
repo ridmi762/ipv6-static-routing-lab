@@ -20,7 +20,7 @@ The network is divided into multiple subnets with the base IPv6 prefix: 2001:CAF
 
 ## 🔧 Device Configurations
 ## Router R-01
-
+##
 R-01>enable
 R-01#show running-config
 Building configuration...
@@ -129,7 +129,7 @@ end
 
 
 R-01#
-
+## 
 ## Router R-02
 R-02>enable
 R-02#show running-config
